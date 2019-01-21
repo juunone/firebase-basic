@@ -1,0 +1,2 @@
+# firebase-basic
+firebase settings
